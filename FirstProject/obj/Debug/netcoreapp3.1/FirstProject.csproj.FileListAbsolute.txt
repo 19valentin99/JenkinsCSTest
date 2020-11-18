@@ -1,0 +1,13 @@
+C:\Project\CSharp\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.exe
+C:\Project\CSharp\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.deps.json
+C:\Project\CSharp\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.json
+C:\Project\CSharp\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.dev.json
+C:\Project\CSharp\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.dll
+C:\Project\CSharp\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.pdb
+C:\Project\CSharp\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csprojAssemblyReference.cache
+C:\Project\CSharp\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfoInputs.cache
+C:\Project\CSharp\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfo.cs
+C:\Project\CSharp\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.CoreCompileInputs.cache
+C:\Project\CSharp\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.dll
+C:\Project\CSharp\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.pdb
+C:\Project\CSharp\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.genruntimeconfig.cache
